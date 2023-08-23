@@ -11,7 +11,7 @@
 ## Connect with me
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/christinabengephotography/)
 [<img align="left" alt="peronal portfolio" src="https://camo.githubusercontent.com/7cdb27ffd19e32fd4dbea4891f68efa09b2540930fc62a1a69995bb6a5ca31a4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5a656e6e26636f6c6f723d334541384646266c6f676f3d5a656e6e266c6f676f436f6c6f723d464646464646266c6162656c3d" />](https://christinabenge.zenfolio.com/)
-[<img align="left" alt="resume" src="https://img.shields.io/badge/resume-%233B2E58.svg?&style=for-the-badge&logo=resume&logoColor=white" />](update!!!)
+[<img align="left" alt="resume" src="https://img.shields.io/badge/resume-%233B2E58.svg?&style=for-the-badge&logo=resume&logoColor=white" />](https://github.com/tbenge509/resume/blob/a316dd72ac03f2e6c3481e730c8fe3bf543f0bfa/Christina%20Benge%20CV%20Public%20(2023).pdf)
 <br>
 <br>
 ## Expertise

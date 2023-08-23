@@ -5,7 +5,7 @@
 <p>I am interested in a wide range of topics, including computer science, programming, statistics, and telling stories with data.  I have spent the last 20 years raising my four children and am pursuing opportunities in public service to re-enter the workforce and work on a mission that makes a difference for people.  My repositories here contain a small sampling of learnings and work I've done in Python, R, LaTeX, etc.</p>
 
 <br><br>
-<img align="left" alt="Liberty University" src="https://github.com/tbenge509/tbenge509/LULogo.png" width=50 />
+<img align="left" alt="Liberty University" src="[https://github.com/tbenge509/tbenge509/LULogo.png](https://github.com/tbenge509/tbenge509/blob/main/LUlogo.png)" width=50 />
 <br><br><br>
 
 ## Connect with me
